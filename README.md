@@ -15,4 +15,14 @@ Foram desenvolvidos dois programas em C utilizando **alocação dinâmica de mem
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem C:** Para manipulação direta de memória e ponteiros.
-* **Shell Script (Bash):** Para
+* **Shell Script (Bash):** Para automação de testes, compilação dinâmica e coleta de médias estatísticas.
+* **Gnuplot:** Para geração automática de gráficos de desempenho.
+* **Linux (ZorinOS/Mint):** Ambiente de execução.
+
+## 🚀 Como Executar
+
+### Pré-requisitos
+Você precisa ter o `gcc` e o `gnuplot` instalados no seu sistema Linux.
+```bash
+sudo apt update
+sudo apt install build-essential gnuplot
